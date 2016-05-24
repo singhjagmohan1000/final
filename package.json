@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts":{
-  "start":"npm app"
+  "start":"node app"
   },
   "dependencies": {
     "express" : "3.x",
